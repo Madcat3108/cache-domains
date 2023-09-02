@@ -122,5 +122,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+		{
+			"name": "startrekonline",
+			"description": "CDN for Star Trek Online (test)",
+			"domain_files": ["startrekonline.txt"]
+		}
 	]
 }
