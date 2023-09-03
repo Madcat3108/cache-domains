@@ -5,3 +5,4 @@ https-41-63-96-128.hhn.llnw.net
 limelight.stohttppatch.crypticstudios.com
 limelight.stohttppatch.crypticstudios.com\r\n
 limelight.stohttppatch.crypticstudios.com/*
+*.crypticstudios.com
