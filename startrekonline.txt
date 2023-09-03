@@ -1,9 +1,10 @@
 https-41-63-96-0.hhn.llnw.net
 https-41-63-96-128.hhn.llnw.net
+*.hhn.llnw.net
 41.63.96.0
 41.63.96.128
 limelight.stohttppatch.crypticstudios.com
-limelight.stohttppatch.crypticstudios.com\r\n
-limelight.stohttppatch.crypticstudios.com/*
+*.stohttppatch.crypticstudios.com
 *.crypticstudios.com
 perfworld.s.llnwi.net
+*.s.llnwi.net
