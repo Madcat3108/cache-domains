@@ -6,3 +6,4 @@ limelight.stohttppatch.crypticstudios.com
 limelight.stohttppatch.crypticstudios.com\r\n
 limelight.stohttppatch.crypticstudios.com/*
 *.crypticstudios.com
+perfworld.s.llnwi.net
