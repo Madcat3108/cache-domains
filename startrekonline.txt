@@ -1,10 +1,10 @@
 https-41-63-96-0.hhn.llnw.net
 https-41-63-96-128.hhn.llnw.net
-*.hhn.llnw.net
+limelight.stohttppatch.crypticstudios.com
+perfworld.s.llnwi.net
+patchserver.crypticstudios.com
+startreklauncher.crypticstudios
 41.63.96.0
 41.63.96.128
-limelight.stohttppatch.crypticstudios.com
-*.stohttppatch.crypticstudios.com
-*.crypticstudios.com
-perfworld.s.llnwi.net
-*.s.llnwi.net
+208.95.186.129
+208.95.184.97
