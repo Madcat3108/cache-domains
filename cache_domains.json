@@ -125,6 +125,7 @@
 		{
 			"name": "startrekonline",
 			"description": "CDN for Star Trek Online (test)",
+			"mixed_content": true,
 			"domain_files": ["startrekonline.txt"]
 		}
 	]
